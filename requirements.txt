@@ -1,0 +1,4 @@
+groq==0.4.2
+zep-python==0.30.0
+python-dotenv==1.0.0
+python-telegram-bot==20.7 
